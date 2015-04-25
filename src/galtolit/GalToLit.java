@@ -11,10 +11,10 @@ This program converts gallons to liters.
 Call this program GalToLit.java.
 @author Renee
  */
+public class GalToLit {
     /**
      * @param args the command line arguments
      */
-   class GalToLit {
     public static void main(String args[]){
      double gallons;  // holds the nimber of gallons
      double liters;  //holds conversion to liters
