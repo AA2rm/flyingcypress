@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package galtolit;
-
 /*
 Try This 1-1
 This program converts gallons to liters.
